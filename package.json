@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "name": "fab",
+  "main": "index.html",
+  "webkit": {
+    "page-cache": true
+  },
+  "window": {
+    "icon": "bubble-no-drop.png",
+    "frame": false,
+    "show": false,
+    "toolbar": false,
+    "transparent": true,
+    "always-on-top": true,
+    "show_in_taskbar": true,
+    "resize": false,
+    "width": 99999,
+    "height": 99999
+  }
+}
